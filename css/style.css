@@ -8,9 +8,7 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
-.box-123{
-   text-align: center;
-}
+
 
 .container {
   position: relative;
@@ -272,9 +270,7 @@ h2.title {
   padding: 86px 0 79px 0;
 }
 
-.bonus .box_img {
-  text-align: center;
-}
+
 
 .bonus .bonus_text {
   margin-top: 42px;
@@ -287,15 +283,12 @@ h2.title {
 
 .firstwebinar {
   min-height: 447px;
-  padding: 86px 0 79px 0;
+  padding: 137px 0 79px 0;
   background: url("../img/bg/white_background.png") center center/cover
     no-repeat;
 }
 
-.firstwebinar .webinar_img {
-  margin-top: 89px;
-  text-align: center;
-}
+
 
 .firstwebinar .firstrwebinarstart {
   margin-top: 37px;
