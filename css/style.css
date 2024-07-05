@@ -5,10 +5,8 @@
 }
 
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sa ns-serif;
 }
-
-
 
 .container {
   position: relative;
@@ -270,8 +268,6 @@ h2.title {
   padding: 86px 0 79px 0;
 }
 
-
-
 .bonus .bonus_text {
   margin-top: 42px;
   font-family: Roboto;
@@ -287,8 +283,6 @@ h2.title {
   background: url("../img/bg/white_background.png") center center/cover
     no-repeat;
 }
-
-
 
 .firstwebinar .firstrwebinarstart {
   margin-top: 37px;
