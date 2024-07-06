@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 html {
   font-family: "Roboto", sa ns-serif;
 }
@@ -323,18 +327,25 @@ h2.title {
   width: 100%;
   margin: 0 auto;
   min-height: 100px;
+  text-align: center; /* We centering the contents */
+  padding-top: 50px; /* Speaking from above */
 }
 
 .floor .help_center {
-  display: block;
-
-  text-align: center;
-  padding-top: 50px;
-
+  display: inline-block; /* Inline blocks */
   font-family: Roboto;
   font-size: 15px;
   line-height: 21px;
+
   font-weight: 300;
   text-decoration: underline;
   color: #888888;
+  margin: 0 5px; /* Dentins between links */
+}
+
+.floor .separator {
+  color: #888888; /* The color of the separator separator */
+  font-size: 15px; /* The size of the font of the separator */
+  line-height: 21px; /* The height of the line of the separator */
+  vertical-align: middle; /* Vertical alignment */
 }
